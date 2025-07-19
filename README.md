@@ -17,15 +17,18 @@
 </div>
 
 ---
+<h1 align="center">🌐 Conecte-se comigo:</h1>
 
-### 🌐 Conecte-se comigo:
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/wander-cardoso-b65459ba/))
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:wander.deivid@hotmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wander-cardoso-b65459ba/)
+  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:wander.deivid@hotmail.com)
+
+</div>
+
 
 ---
-
-### 🏆 Conquistas GitHub
+<h1 align="center">🏆 Conquistas GitHub</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WanderCardoso&theme=radical&no-frame=true&row=1&column=6" />
